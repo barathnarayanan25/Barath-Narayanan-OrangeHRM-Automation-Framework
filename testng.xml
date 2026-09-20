@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="OrangeHRM Automation Suite">
+
+    <listeners>
+        <listener class-name="com.orangehrm.utils.TestListener"/>
+    </listeners>
+
+    <test name="Employee Lifecycle Tests">
+
+        <classes>
+            <class name="com.orangehrm.tests.EmployeeLifecycleTest"/>
+        </classes>
+
+    </test>
+
+</suite>

@@ -1,0 +1,22 @@
+# Maven
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Test/debug artifacts
+screenshots/
+
+# OAuth credentials
+performance/oauth-token.txt
+
+# Logs
+*.log
+
+# Large video files
+video/*.mp4
