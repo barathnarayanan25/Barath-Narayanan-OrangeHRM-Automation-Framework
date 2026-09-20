@@ -19,6 +19,12 @@ The framework covers:
 
 ---
 
+## 🎥 Test Execution Video
+
+[Watch the OrangeHRM QA Automation Framework Demo](https://drive.google.com/file/d/10MjcSRK1APkuHZY-Hse4vGWBvX7p_Yhe/view?usp=sharing)
+
+---
+
 ## Application Under Test
 
 **Application:** OrangeHRM Demo
